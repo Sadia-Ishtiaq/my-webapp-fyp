@@ -1,4 +1,5 @@
 streamlit
+flask
 numpy
 opencv-python-headless
 pillow
