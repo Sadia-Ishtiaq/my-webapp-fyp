@@ -5,3 +5,5 @@ opencv-python-headless
 pillow
 matplotlib
 ultralytics
+tensorflow==2.14.0
+keras==2.14.0
